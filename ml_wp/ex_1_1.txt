@@ -1,0 +1,6 @@
+Installed via Homebrew:
+- brew info smlnj
+- export PATH=/usr/local/Cellar/smlnj/110.73/libexec/bin:$PATH
+- sml
+- quit with C-d 
+- load file with: use "filename.ml";

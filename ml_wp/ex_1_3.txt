@@ -1,0 +1,4 @@
+SML/NJ defaults ambiguous declarations to int, so there's no need for any type,
+but
+fun g h = ~ h * h;
+is the only one that is ambiguous.

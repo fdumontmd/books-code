@@ -1,0 +1,3 @@
+- performance considerations: integer arithmetic can be much faster than float
+- correction: sometimes all arguments are expected to be integers, and 
+  deviations should be flagged as errors
